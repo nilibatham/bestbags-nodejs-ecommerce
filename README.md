@@ -9,7 +9,7 @@
 - [Features](#features)
 - [Database Models](#database)
 - [Color Palette](#colors)
-- [License](#license)
+- [License](#license) hiii leptop
 
 ## Introduction
 
