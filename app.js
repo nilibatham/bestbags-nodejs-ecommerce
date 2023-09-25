@@ -41,7 +41,7 @@ app.use(
     //session expires after 3 hours
     cookie: { maxAge: 60 * 1000 * 60 * 3 },
   })
-);
+);hiii
 app.use(flash());
 app.use(passport.initialize());
 app.use(passport.session());
